@@ -8,14 +8,14 @@ Note that this module supports both Typescript and Javascript.
 
 Typescript 
 ```ts
-import { idea } from 'https://raw.githubusercontent.com/NotSyntax/idea/master/mod.ts'
+import { idea } from 'https://deno.land/x/idea/mod.ts'
 
 console.log(await idea())
 ```
 
 Javascript
 ```js
-import { idea } from 'https://raw.githubusercontent.com/NotSyntax/idea/master/mod.js'
+import { idea } from 'https://deno.land/x/idea/mod.ts'
 
 console.log(await idea())
 ```
