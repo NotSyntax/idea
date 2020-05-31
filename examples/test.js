@@ -1,3 +1,3 @@
 import { idea } from "../mod.js";
 
-console.log(await idea(4));
+console.log(await idea());

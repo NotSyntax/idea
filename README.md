@@ -17,7 +17,7 @@ Javascript
 ```js
 import { idea } from 'https://raw.githubusercontent.com/NotSyntax/idea/master/mod.js'
 
-console.log(await idea(4))
+console.log(await idea())
 ```
 
 ## Contributing
