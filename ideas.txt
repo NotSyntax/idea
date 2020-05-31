@@ -1,0 +1,9 @@
+-- Create a pull request with your words.
+-- Have common sense with your words, or they will be denied.
+-- Don't use two dashes, your request will be denied. The dashes represent a comment.
+
+bot
+website
+random
+generator
+editor
